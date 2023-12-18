@@ -21,9 +21,9 @@ timezone                : Sydney/Australia
 og_image                :     #default[author.avatar (see below)] or [github-avatar]
 twitter_site            :     #Avoid @
 author:
-  name                  :  Your Name   # Name Surname Company
+  name                  :  David Cashman   # Name Surname Company
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
-  location              :  "Madrid, Spain"   # New York, USA 
+  location              :  "Sydney, Australia"   # New York, USA 
 #  links:                
 #    - url:  #A link or email: https://twitter.com/jack, mail@example.com
 #      icon: # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
@@ -98,12 +98,16 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Music Research
+    url     : /aboutmusicresearch/
     child : 
       - title : Publications
         url   : /publications/
   - title   : Piano
+    url     : /aboutperformance/
   - title   : Music Arranging
+    url     : /aboutmusicarranging/
   - title   : Motorcycles
+    url     : /aboutmotorcycles/
 
 #Social links to be placed on your site footer
 footer:
