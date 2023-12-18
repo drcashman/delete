@@ -98,6 +98,8 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Music Research
+    - child : Publications
+      url: /publications/
   - title   : Piano
   - title   : Music Arranging
   - title   : Motorcycles
