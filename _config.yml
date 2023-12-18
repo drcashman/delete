@@ -98,7 +98,6 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Music Research
-    url     : /aboutmusicresearch/
     child : 
       - title : Publications
         url   : /publications/
