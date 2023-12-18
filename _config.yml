@@ -102,11 +102,17 @@ navbar:
       - title : Publications
         url   : /publications/
   - title   : Piano
-    url     : /aboutperformance/
+    child:
+      - title : About David's Performance
+        url   : /aboutperformance/
   - title   : Music Arranging
-    url     : /aboutmusicarranging/
+    child:
+      - title : About David's Arranging
+        url   : /aboutmusicarranging/
   - title   : Motorcycles
-    url     : /aboutmotorcycles/
+    child:
+      - title : About David's riding
+        url   : /aboutmotorcycles/
 
 #Social links to be placed on your site footer
 footer:
