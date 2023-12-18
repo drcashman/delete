@@ -99,7 +99,7 @@ navbar:
   nav:
   - title   : Music Research
     - child : Publications
-      url: /publications/
+      url   : /publications/
   - title   : Piano
   - title   : Music Arranging
   - title   : Motorcycles
