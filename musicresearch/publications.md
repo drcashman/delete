@@ -1,3 +1,10 @@
+--- 
+layout: minimal
+title: Publications
+nav: hero
+header_type: none
+excerpt: Page not found
+permalink: /404.html
 ---
 
 
