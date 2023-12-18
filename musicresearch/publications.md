@@ -1,5 +1,5 @@
 --- 
-layout: minimal
+layout: default
 title: Publications
 nav: hero
 header_type: none
