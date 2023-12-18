@@ -98,15 +98,15 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Music Research
-    url : /musicresearch/
+    url     : /musicresearch/
     - child : Publications
       url   : /publications/
   - title   : Piano
-    url : /piano/
+    url     : /piano/
   - title   : Music Arranging
-    url : /music arranging/
+    url     : /music arranging/
   - title   : Motorcycles
-    url : /motorcycles/
+    url     : /motorcycles/
 
 #Social links to be placed on your site footer
 footer:
