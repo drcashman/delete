@@ -101,7 +101,7 @@ navbar:
     url     : /musicresearch/
     child : 
       - title : Publications
-        url   : /publications/
+        url   : /publications/ 
   - title   : Piano
     url     : /piano/
   - title   : Music Arranging
