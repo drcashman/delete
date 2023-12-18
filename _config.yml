@@ -102,10 +102,9 @@ navbar:
       - title : Publications
         url   : /publications/
   - title   : Piano
-    url   : /aboutperformance/
     child:
       - title : About David's Performance
-        url   : /aboutperformance/
+        url   : /aboutpiano/
   - title   : Music Arranging
     url   : /aboutmusicarranging/
     child:
