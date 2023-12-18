@@ -1,6 +1,6 @@
 --- 
 layout: default
-title: About Music Research
+title: About Music Arranging
 nav: hero
 header_type: none
 permalink: /aboutmusicarranging/
