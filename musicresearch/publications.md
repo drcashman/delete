@@ -6,7 +6,6 @@ header_type: none
 permalink: /publications/
 ---
 
-
 # Books
 
 Bennett, A., **Cashman, D**., Green, B., and Lewandowski, N. (Eds.) 2023. [Popular Music Scenes: A Regional and Rural Perspective](https://link.springer.com/book/9783031086144). Palgrave. 
