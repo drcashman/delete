@@ -9,10 +9,10 @@ repository              : drcashman/twowheelsin
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale                  : en-AU 
-title                   : David Cashman 
+title                   : Two Wheels In
 title_separator         : | 
-subtitle                : Music Research, Piano, Music Arranging ... and Motorcycles
-description             : Music Research, Piano, Music Arranging ... and Motorcycles
+subtitle                : The adventures of David and Dalma as they travel the world. On Motorcycles.
+description             : The adventures of David and Dalma as they travel the world. On Motorcycles.
 url                     :     #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
 baseurl                 :     #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 words_per_minute        :     #default[200]
@@ -98,27 +98,18 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  - title   : Music Research
+  - title   : Adventures
     url: /
     child : 
-      - title : About Music Research
-        url   : /aboutmusicresearch/
-      - title : Publications
-        url   : /publications/
-  - title   : Piano
-    child:
-      - title : About David's Performance
-        url   : /aboutpiano/
-  - title   : Music Arranging
-    url   : /aboutmusicarranging/
-    child:
-      - title : About David's Arranging
-        url   : /aboutmusicarranging/
-  - title   : Motorcycles
-    url   : /aboutmotorcycles/
-    child:
-      - title : About David's riding
-        url   : /aboutmotorcycles/
+      - title : Bali 2022
+        url   : /
+      - title : Rajasthan 2023
+        url   : /
+      - title : Isaan and Northern Thailand 2024
+        url   : /
+  - title   : About
+    url: /
+
 
 #Social links to be placed on your site footer
 footer:
